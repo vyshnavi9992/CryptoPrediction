@@ -1,3 +1,3 @@
-# CryptoPrediction
-This project is created using Jupyter Notebook. The dataset is taken from Yahoo Finance website and the opening price in the dataset is used to predict the next day price of Bitcoin.
-Prediction is done using Naive Bayes Prediction model as well as Long short-term memory neural network.
+# CryptoPrediction Web Application
+This project introduces a sophisticated web application using streamlit, with special focus on Bitcoin and Ethereum. The dataset is extracted from Yahoo Finance website and the closing price is the feature variable in the dataset is used to predict the next day price of Bitcoin or Ethereum. With the use of advanced neural network and machine learning prediction models, the application provides timely and accurate predictions for cryptocurrency prices. 
+The application uses a special kind of Long short-term memory and Prophet, a powerful time series forecasting algorithm. It uses news api to fetch latest articles related to crypto world.
